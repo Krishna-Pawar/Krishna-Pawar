@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Krishna-Pawar
+- 👋 Hi, I’m @Krishna Pawar
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning NLP and Machine Learning
 
