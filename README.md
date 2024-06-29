@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Krishna Pawar
-- 👀 I’m Data Science Enthusiast 
+- 👀 I’m Data Engineer Enthusiast 
 - 🌱 I’m currently learning NLP and Machine Learning
 
 
